@@ -1,0 +1,49 @@
+
+h1 {
+  display: flex;
+  text-align: center;
+  font-family: serif;
+  font-weight: 700;
+  font-size: 40px;
+  margin: 50px;
+  color: black;
+
+}
+h3 {
+  text-align: center;
+  font-family: serif;
+  color:black;
+}
+h4 {
+  text-align: center;
+  font-family: serif;
+  color: black;
+}
+ul{
+  text-align: left;
+  display:block;
+  text-align: left;
+  font-size: 20px;
+}
+p {
+color: black;
+}
+body{
+  font-family: serif;
+  font-size:20px;
+  margin-left: 20px;
+  background-color:darkgray;
+  color: black;
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  text-align: center;
+color:black;}
+a{
+  text-align: center;
+color:white;}
+
